@@ -4,4 +4,4 @@ Nesse projeto temos um site de lista de filmes, aonde pode-se escolher o filme q
 
 Temos validação de campos para caso não for encontrado nada, e támbem validação de ano, porém o ano não é obrigatório
 
-Link do site:
+Link do site: https://lucaspereira1212.github.io/ListaDeFilmes_Site_Funcional/
