@@ -67,6 +67,7 @@ function updateUI(movieObject) {
   $movieList.innerHTML += ` 
   <article id="movie-card-${movieObject.imdbID}">
           <img
+            onclick="OpenModal('${movieObject.imdbID}')"
             src=${movieObject.Poster}
             alt="Poster de ${movieObject.Title}."
           />
