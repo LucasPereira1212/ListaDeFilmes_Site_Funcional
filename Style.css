@@ -116,3 +116,8 @@ main {
   background-color: var(--light-secondary);
   color: var(--ligthest-color);
 }
+
+article img{
+  cursor: pointer;
+}
+
